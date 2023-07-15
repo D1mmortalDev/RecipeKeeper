@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Recipe Keeper</string>
+    <string name="app_with_name">Recipe Keeper by: Bernadette</string>
+    <string name="add_recipe_name">Add Recipe Name</string>
+    <string name="add_ingredients">Add Ingredients</string>
+    <string name="add_instructions">Add Instructions</string>
+    <string name="save_recipe">Save Recipe</string>
+    <string name="clear_all">Clear All</string>
+    <string name="enter_recipe_name">Enter Recipe Name</string>
+    <string name="enter_ingredients">Enter Ingredients</string>
+    <string name="enter_instructions">Enter Instructions</string>
+
+
+
+
+
+</resources>
